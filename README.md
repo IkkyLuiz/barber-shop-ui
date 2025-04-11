@@ -24,7 +24,6 @@
     <td>
         <p align="center">Expert</p>
         <a href="https://github.com/juniorjrjl">
-        <img src="https://avatars.githubusercontent.com/u/6619093?u=0afe982a654793dfc9e886acab8b417aa632f511&v=4" alt="@felipeAguiarCode"><br>
       </a>
     </td>
     <td colspan="3">
@@ -61,7 +60,7 @@
 
 ## 💻 Sobre o Projeto
 
-Vamos criar um projeto Angular para agendamento de atendimento em uma barbearia, vamos usar a lib do Material e assim explorar alguns conceitos do framework Angular
+Criação de um projeto Angular para agendamento de atendimento em uma barbearia, vamos usar a lib do Material e assim explorar alguns conceitos do framework Angular
 
 ## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
 
@@ -95,7 +94,7 @@ Após a conclusão do curso/projeto, os estudantes estarão aptos a:
 <br />
 
 <p align="center">
-  <a href="https://www.dio.me/" target="_blank">
+  <a href="https:https://www.dio.me/sign-up?ref=AF09NCKTFOJE" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/>
   </a>
 </p>
